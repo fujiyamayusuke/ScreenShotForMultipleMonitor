@@ -19,7 +19,7 @@
 
 # Plan:
 
-- In order that it can be used as function, function in setimage.py should be turn into class.
+- In order that it can be used as function, function in setimage.py should be turn into class.998114
 
 
 # Contributing: 
